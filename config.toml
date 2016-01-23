@@ -1,0 +1,25 @@
+baseURL = "http://jrupac.roopakalu.com/blog2/"
+canonifyURLs = true
+defaultLayout = "posts"
+description = "Math, programming, design, whatever comes to mind"
+editor = "vim"
+languageCode = "en-us"
+publishDir = "/var/www/blog2/"
+relativeURLs = true
+stepAnalysis = true
+theme = "hyde-x"
+title = "etc. and everything else"
+verbose = true
+
+[author]
+  name = "etc. and everything else"
+
+[permalinks]
+  post = "/blog/:year/:month/:day/:title/"
+
+[params]
+  github = "https://github.com/jrupac"
+  highlight = "kimbie.dark"
+  rss = true
+  tagline = "Math, programming, design, whatever comes to mind"
+  theme = "theme-base-0f"

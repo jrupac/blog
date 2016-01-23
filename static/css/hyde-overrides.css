@@ -1,0 +1,42 @@
+/*
+ * Tweaks and overrides to hyde.css
+ */
+
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: 0;
+  font-family: "Lobster Two";
+  font-size: 3rem;
+}
+
+.sidebar-nav {
+  padding-left: 0;
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+strong {
+  color: white;
+}
+
+pre, pre > code, code {
+  background-color: transparent;
+  border: none;
+  border-radius: 0px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+}
+
+code {
+  color: white;
+  border: 1px solid white;
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+blockquote {
+  border-left: 0.25rem solid #F0835F;
+  color: white;
+  background: #808080;
+}
