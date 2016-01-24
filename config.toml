@@ -1,10 +1,10 @@
-baseURL = "http://jrupac.roopakalu.com/blog2/"
+baseURL = "http://jrupac.roopakalu.com/blog/"
 canonifyURLs = true
 defaultLayout = "posts"
 description = "Math, programming, design, whatever comes to mind"
 editor = "vim"
 languageCode = "en-us"
-publishDir = "/var/www/blog2/"
+publishDir = "/var/www/blog/"
 relativeURLs = true
 stepAnalysis = true
 theme = "hyde-x"
