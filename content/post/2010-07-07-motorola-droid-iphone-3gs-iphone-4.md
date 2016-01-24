@@ -1,4 +1,4 @@
-++
++++
 title = "Motorola Droid, iPhone 3GS, iPhone 4"
 date = "2010-07-08"
 tags = ["android", "iPhone", "droid"]
