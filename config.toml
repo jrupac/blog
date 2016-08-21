@@ -1,4 +1,4 @@
-baseURL = "http://jrupac.roopakalu.com/blog/"
+baseURL = "https://jrupac.roopakalu.com/blog/"
 canonifyURLs = true
 defaultLayout = "posts"
 description = "Math, programming, design, whatever comes to mind"
